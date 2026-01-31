@@ -1,0 +1,103 @@
+._switch {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  cursor: pointer;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  min-width: auto;
+  min-height: 32px;
+  position: relative;
+  border-radius: 0.25em;
+  padding: 0px;
+  border: 1px solid var(--token-5DlP39HEpY3B);
+}
+.button___97JvO {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  cursor: pointer;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  min-width: 32px;
+  min-height: 32px;
+  box-shadow: none;
+  background: var(--token-eQ05alPJQE_S);
+  border-radius: 0.19em 0em 0em 0.19em;
+  padding: 4px;
+  border: 1px none var(--token-5DlP39HEpY3B);
+}
+.buttonoff___97JvOsFfiP {
+  background: var(--token-7kbz7oMu8qNi);
+}
+.svg__kfc61 {
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  color: var(--token-VeD5FArx7b1I);
+  flex-shrink: 0;
+}
+.svgoff__kfc61SFfiP {
+  color: var(--token-j1Sb6E62Yoda);
+}
+.svgon__kfc61MH4Bw {
+  color: var(--token-j1Sb6E62Yoda);
+}
+._switch:hover .svg__kfc61 {
+  color: var(--token-7kbz7oMu8qNi);
+}
+._switchoff:hover .svgoff__kfc61SFfiP {
+  color: var(--token-j1Sb6E62Yoda);
+}
+.button__kn2Uq {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  cursor: pointer;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  min-width: 32px;
+  min-height: 32px;
+  background: var(--token-eQ05alPJQE_S);
+  border-radius: 0em 0.19em 0.19em 0em;
+  padding: 4px;
+  border: 1px none var(--token-5DlP39HEpY3B);
+}
+.buttonon__kn2UQmH4Bw {
+  background: var(--token-MtHgXjfg2GLb);
+}
+.svg__efaAa {
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  color: var(--token-VeD5FArx7b1I);
+  flex-shrink: 0;
+}
+.svgoff__efaAasFfiP {
+  color: var(--token-j1Sb6E62Yoda);
+}
+.svgon__efaAamH4Bw {
+  color: var(--token-j1Sb6E62Yoda);
+}
+._switch:hover .svg__efaAa {
+  color: var(--token-MtHgXjfg2GLb);
+}
+._switchon:hover .svgon__efaAamH4Bw {
+  color: var(--token-j1Sb6E62Yoda);
+}

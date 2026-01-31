@@ -9,10 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.355",
     "@plasmicapp/loader-nextjs": "^1.0.447",
+    "@plasmicapp/react-web": "^0.2.415",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.265",
+    "@plasmicpkgs/plasmic-embed-css": "^0.1.220",
+    "@plasmicpkgs/plasmic-nav": "^0.0.206",
+    "@plasmicpkgs/react-parallax-tilt": "^0.0.236",
+    "@plasmicpkgs/react-slick": "^0.0.257",
+    "dayjs": "^1.11.19",
+    "marked": "^15.0.12",
     "next": "14.2.35",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-slick": "^0.31.0",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@types/node": "^20",
